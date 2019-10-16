@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "APM"
+		}
+	],
+	"settings": {
+		"sqltools.connections": [],
+		"sqltools.autoConnectTo": "Rollo-Matthew",
+        "editor.detectIndentation": false,
+        "html.format.indentHandlebars": true
+    }
+}
